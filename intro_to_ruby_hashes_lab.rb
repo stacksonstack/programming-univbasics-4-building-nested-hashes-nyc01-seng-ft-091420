@@ -1,5 +1,7 @@
 def base_hash
-  :railroads => {}
+  hash[:railroads] => {}
+  
+  hash
 
 end
 
