@@ -36,7 +36,7 @@ def monopoly_with_third_tier
       :reading_railroad => {},
       :pennsylvania_railroad => {},
       :b_and_o_railroad => {},
-      :shortline_railroad => {}
+      :shortline => {}
     }
   }}
 
@@ -65,7 +65,7 @@ def monopoly_with_fourth_tier
       :b_and_o_railroad => {
         "mortgage_value" => "$400"
       },
-      :shortline_railroad => {
+      :shortline => {
         "mortgage_value" => "$800"
       }
     }
